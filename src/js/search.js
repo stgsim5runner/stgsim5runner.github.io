@@ -108,7 +108,7 @@ actionList = {
     word: [
         "clickAt(String elementName, int pos)",
         "clickAtPercent(String elementName, int xposPercent, int yposPercent)",
-        "dragAndDropSlideInSlidePane(String firstSlide, String secondSlide)",
+        "dragAndDropSlideInSlidePane(String firstSlideNumber, String secondSlideNumber)",
         "rightClickSlideInSlidePane(String slideNumber)",
         "selectMultiParaText(String elementNameStart, String elementNameEnd, int Start, int End, Method methodType)",
         "selectSlideFromSlidePane(String slideNumber)",
